@@ -1,3 +1,3 @@
 # ultracdn
 Ultra Github Pages CDN
-See javaarchive.github.io/ultracdn
+See https://ultracdn.github.io
