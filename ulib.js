@@ -4,3 +4,4 @@ var uj = {
 		
 	}
 }
+window.uload();
