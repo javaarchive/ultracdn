@@ -1,5 +1,5 @@
 console.log("ulib finished loading");
-var uj = {
+var ujs = {
 	getAllPosts:function(){
 		var posts = document.getElementsByClassName("cmty-post-html");
 		return posts;
