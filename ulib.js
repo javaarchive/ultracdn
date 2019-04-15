@@ -1,3 +1,7 @@
+console.log("Manager Loading");
+  mscript = {
+    editable: function(){document.designMode = "on";}
+  }
 console.log("ulib finished loading");
 var ujs = {
 	getAllPosts:function(){
